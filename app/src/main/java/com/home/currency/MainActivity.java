@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
                             .setMessage("USD is " + go)
                             .setPositiveButton("OK", null)
                             .show();
+                    }
                 }
-            }
-        });
+            });
         }
     }
